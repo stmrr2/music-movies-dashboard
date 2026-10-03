@@ -31,3 +31,7 @@ PythonとStreamlitを用い、公開年やジャンルによる絞り込み、�
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
+## 公開アプリ
+
+[Streamlitでアプリを見る](https://stmrr2-music-movies-dashboard-app-hjio7m.streamlit.app/)
