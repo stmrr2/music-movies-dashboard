@@ -181,5 +181,13 @@ with tab4:
         st.info("No data to show by language.")
 
 st.divider()
-st.caption("Data source: TMDB (The Movie Database)")
-st.caption("This product uses the TMDB API but is not endorsed or certified by TMDB.")
+
+st.subheader("Credits")
+
+st.image("tmdb_logo.svg", width=180)
+
+st.write("Data source: TMDB (The Movie Database).")
+
+st.caption(
+    "This product uses the TMDB API but is not endorsed or certified by TMDB."
+)
